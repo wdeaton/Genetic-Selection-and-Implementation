@@ -10,3 +10,7 @@
 - [Is Continued Genetic Improvement of Livestock Sustainable?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4788124/)
 
   I would like to do my white paper on cattle genetics specifically on the beef side of things. I want to talk about what genetics are and how they are made. Then move on to ways to improve genetics in a beef herd, specifically through artificial insemination. Following that, I would like to talk about expected progeny differences which are a result of genetic change in your herd. Lastly, I want to discuss why genetic change is important in beef herds, and why it is important. 
+
+My topic commit will be about artificial insemination in cattle and how that helps improve cattle genetics. I would also like to discuss EPDs since that is how you see genetics in cattle. My target audience will be cattle farmers with an age range from 25 years old to 75 years old. 
+
+Or with your permission, I did some thinking and digging and I found data from my research project. I extracted chemicals from honey locust thorns to determine if thats the cause behind the swelling when poked by the thorn. Other research I found with that theory lead to the dicovery of possible bacteria on the thorn to cause the swelling. I would like to discuss my results and share what I found and say my audience is a group of scientists who would be willing to help me pursue that research and complete all of it. I only had time, knowledge, and resources to complete the chemical side of the experiment. 
